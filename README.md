@@ -4,7 +4,7 @@ Misleading means: Aquaculture diversity disrupts environmental impact generalisa
 
 ---
 
-## Required content (checklist covered)
+## Required content 
 This README includes the system requirements, an installation guide, a demo section, instructions for use, and reproducibility guidance.
 
 ## Project overview
