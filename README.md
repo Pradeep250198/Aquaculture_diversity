@@ -58,7 +58,7 @@ Expected demo run time on a normal desktop: ~30 seconds to 5 minutes depending o
    - data/A1_bubble_plot.xlsx
    - data/A2_Correlation_map.xlsx
    - data/A3_Treemap.xlsx
-2. Open the notebook Aquaculture_diversity_Full_code (3).ipynb and run cells top-to-bottom.
+2. Open the notebook Aquaculture_diversity_Full_code.ipynb and run cells top-to-bottom.
 3. Generated outputs will be written to the working directory with filenames described in the notebooks.
 
 Reproducibility guidelines:
@@ -68,7 +68,7 @@ Reproducibility guidelines:
   - jupyter nbconvert --to notebook --execute "Aquaculture_diversity_Full_code (3).ipynb" --output executed.ipynb
 
 ## Repository structure
-- Aquaculture_diversity_Full_code (3).ipynb  — main analysis notebook
+- Aquaculture_diversity_Full_code.ipynb  — main analysis notebook
 - data/                                      — demo and user datasets
 - outputs/                                   — generated figures and Excel files
 - requirements.txt                            — pinned dependencies
