@@ -1,8 +1,8 @@
-# from an empty folder or your work folder
+# from work folder
 git clone https://github.com/Pradeep250198/Aquaculture_diversity.git
 cd Aquaculture_diversity
 
-# add a README
+#  README
 cat > README.md << 'EOF'
 # Aquaculture Diversity (LCA reproducibility)
 
