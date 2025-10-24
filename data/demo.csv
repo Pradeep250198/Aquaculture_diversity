@@ -1,0 +1,6 @@
+filename,path,description
+"A1 Boxplot.xlsx",data/A1_Boxplot.xlsx,Excel file used by the boxplot notebook (renamed for repo use)
+"A1 Statistics.xlsx",data/A1_Statistics.xlsx,Excel file used by the statistics notebook (renamed for repo use)
+"A1 bubble plot.xlsx",data/A1_bubble_plot.xlsx,Excel file used by the bubble plot notebook (renamed for repo use)
+"A2 Correlation map.xlsx",data/A2_Correlation_map.xlsx,Excel file used by the correlation map notebook (renamed for repo use)
+"A3 Treemap.xlsx",data/A3_Treemap.xlsx,Excel file used by the treemap notebook (renamed for repo use)

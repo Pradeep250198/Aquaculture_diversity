@@ -1,8 +1,11 @@
-numpy>=1.23
-pandas>=1.5
+numpy>=1.24,<2
+pandas>=2.0,<3
 matplotlib>=3.7
 seaborn>=0.12
-scipy>=1.10
+scikit-learn>=1.2
+scikit-posthocs>=0.7
 statsmodels>=0.14
-plotly>=5.18
-scikit-posthocs>=0.9.0
+scipy>=1.10
+plotly>=5.15
+openpyxl>=3.1
+jupyterlab>=4.0
